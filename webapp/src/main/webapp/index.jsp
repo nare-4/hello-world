@@ -5,3 +5,4 @@
 
 <h3> this is third line </h3>
 
+<img src="img.jpg" width="500" height="600"> 
